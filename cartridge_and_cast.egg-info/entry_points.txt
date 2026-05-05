@@ -1,0 +1,4 @@
+[console_scripts]
+acquire = acquire.cli:app
+cartridge-api = app.main:run
+cartridge-worker = app.worker:main

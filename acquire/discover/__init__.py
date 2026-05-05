@@ -1,0 +1,1 @@
+"""Discover command scaffolding."""
